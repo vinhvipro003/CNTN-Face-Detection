@@ -1,0 +1,13 @@
+DATASET_DIR = './data'
+OUTPUT_DIR = 'NHOM_24'
+OUTPUT_MODEL_FILE = 'model-opencv-3-nhom-24'
+
+NUM_CLASS = 3
+
+PTRAIN = 5
+PVAL = 3
+PTEST = 2
+
+IMAGE_SIZE = 10
+
+FIXED_SIZE = 200
